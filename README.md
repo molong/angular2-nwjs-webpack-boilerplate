@@ -10,8 +10,6 @@ Run init script
 $ ./init.sh
 ```
 
-Use sudo if script needs privileges
-
 Manually
 --------
 
